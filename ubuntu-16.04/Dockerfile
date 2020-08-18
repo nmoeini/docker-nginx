@@ -1,6 +1,6 @@
 FROM ubuntu:xenial-20200706
 
-LABEL name="nmoeini/nginx:xenial-20200706" mainteiner="Navid Moeini <nmoeiny@yahoo.com>" version="0.0"
+LABEL name="nmoeini/nginx:1.16-xenial-20200706" mainteiner="Navid Moeini <nmoeiny@yahoo.com>" version="0.0"
 
 ARG DEBIAN_FRONTEND
 
